@@ -1,0 +1,47 @@
+body {
+    
+    background: aqua;
+    
+    text-align: center;
+    
+}
+
+#span1{
+    
+    color: red;
+    
+    font-weight: bold;
+    
+}
+
+img{
+    
+    width: 100%;
+    
+    
+}
+
+.divclass1{
+    
+    
+    border: 7px solid black;
+
+            padding: 20px;
+
+            margin: 10px;
+            
+            width: 100%;
+            
+            
+
+}
+
+
+#a1{
+    
+    color: #ff00de;
+    
+    text-decoration: none;
+    
+    
+}
